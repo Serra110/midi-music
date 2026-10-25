@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 10.4h | 5 |
+| Week 3 | Tier 1 | 10.8h | 5 |
 
 ## Contents
 
@@ -124,7 +124,7 @@ I fixed the broken footprint, needing to fix it 3 times to make it git nicely an
 
 ### 2026-10-25 – I started off by connecting everything, being a huge pain because they were crossing too much and needed to create a lot of vias so to get it to connect, then I finished and exported the files, then I
 
-**3.9h**
+**4.3h**
 
 I started off by connecting everything, being a huge pain because they were crossing too much and needed to create a lot of vias so to get it to connect, then I finished and exported the files, then I went to jlcpcb and checked the price for the pcb, then I went to aliexpress and checked each part and its price
 
@@ -147,3 +147,15 @@ I started off by connecting everything, being a huge pain because they were cros
 ![Screenshot_20261025_172510](https://halflife.hackclub-assets.com/sessions/cZUNd9aER83eZhzV1EsdQoeb1e4f3pZl/86f5bdf3d754a6020dcf667e99ad08f2e15e260437ddcb9c19a6afa8bba1e372.png)
 
 ![Screenshot_20261025_171745](https://halflife.hackclub-assets.com/sessions/cZUNd9aER83eZhzV1EsdQoeb1e4f3pZl/0128a51630193f2c5e03494e10db88e36009ae74324df8cf852e5f65c4062e99.png)
+
+![Screenshot_20261025_150417](https://halflife.hackclub-assets.com/sessions/cZUNd9aER83eZhzV1EsdQoeb1e4f3pZl/8c9a97eba81e7d62c77b8168f378a546a5930d12357f47ac58d547bfac8e4824.png)
+
+![Screenshot_20261025_144735](https://halflife.hackclub-assets.com/sessions/cZUNd9aER83eZhzV1EsdQoeb1e4f3pZl/f794d811bc9cf8018d2d4e49bcb7c57bf77cfa2317161aa51ad881e90683e9fc.png)
+
+![Screenshot_20261025_143744](https://halflife.hackclub-assets.com/sessions/cZUNd9aER83eZhzV1EsdQoeb1e4f3pZl/17c69b4868d776f92d46479bc3fe9b2ece8c2845bd79e48cfe88d7220615d33f.png)
+
+![Screenshot_20261025_143400](https://halflife.hackclub-assets.com/sessions/cZUNd9aER83eZhzV1EsdQoeb1e4f3pZl/2e896e1d524e0c8926918dc6b57a1d6c4d5564abe306c70b4446d93d1e06ebd3.png)
+
+![Screenshot_20261025_142957](https://halflife.hackclub-assets.com/sessions/cZUNd9aER83eZhzV1EsdQoeb1e4f3pZl/ec830747df7d40c12daf9d2ef0224dbe97b5405c53a6d7249def7df9e5e96d87.png)
+
+![Screenshot_20261025_142621](https://halflife.hackclub-assets.com/sessions/cZUNd9aER83eZhzV1EsdQoeb1e4f3pZl/7e62455c1effeef6bc6574280e7e05a0074792c7e88c3f4139de68503f356594.png)
