@@ -35,3 +35,4 @@ The firmware runs on the Raspberry Pi Pico and reads the connected controls to h
 
 ## About the Project
 it is my first music related pcb and i am really grateful to be given the chance to learn this 
+Also, the placement of the capacitive touch keys are placed like that due to being easier to use with 2 hands using the thumb, without needing to loom at the keys, being easily touched without much movement
